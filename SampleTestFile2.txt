@@ -1,1 +1,3 @@
+Git Revert #2 --
+
 Add line to sample text file 2
