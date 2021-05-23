@@ -1,3 +1,4 @@
 Add line to sample text file 2
 Add line to diff - File 2
 Ad third line for Merge into main
+Add line for stash - File 2

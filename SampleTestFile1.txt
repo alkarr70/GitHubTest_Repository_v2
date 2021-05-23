@@ -4,3 +4,4 @@ Swati Mohan (Bangalore, ...) è un'ingegnera statunitense di origini indiane.
 È una ingegnera aerospaziale responsabile delle operazioni di guida e controllo della missione Mars 2020 della NASA.
 
 Add line to diff - File 1
+Add line for stash - File 1
