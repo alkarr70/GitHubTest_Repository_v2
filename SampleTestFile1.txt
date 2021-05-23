@@ -1,1 +1,4 @@
 Add line to sample text file 1
+
+Swati Mohan (Bangalore, ...) è un'ingegnera statunitense di origini indiane.
+È una ingegnera aerospaziale responsabile delle operazioni di guida e controllo della missione Mars 2020 della NASA.
